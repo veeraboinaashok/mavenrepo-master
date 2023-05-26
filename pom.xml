@@ -46,7 +46,7 @@
   <!-- Other properties -->
   <sonar.host.url>http://3.139.79.208:9000/</sonar.host.url>
     <sonar.login>admin</sonar.login>
-    <sonar.password>admin1</sonar.password>
+    <sonar.password>0124</sonar.password>
      <sonar.java.binaries>src/</sonar.java.binaries>
 </properties>
   <dependencies>
