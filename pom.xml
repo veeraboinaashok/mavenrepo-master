@@ -47,6 +47,7 @@
   <sonar.host.url>http://3.139.93.24:9000/</sonar.host.url>
     <sonar.login>admin</sonar.login>
     <sonar.password>0124</sonar.password>
+    <sonar.ws.timeout>600000</sonar.ws.timeout>
      <sonar.java.binaries>src/</sonar.java.binaries>
 </properties>
   <dependencies>
