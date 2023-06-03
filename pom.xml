@@ -33,7 +33,7 @@
    <distributionManagement>
         <repository>
             <id>deployment</id>
-            <name>student snapshots Releases</name>
+            <name>student Releases</name>
             <url>http://52.199.36.214:8081/repository/studentapp-release/</url>
         </repository>
         <snapshotRepository>
